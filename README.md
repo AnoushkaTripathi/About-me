@@ -1,18 +1,79 @@
 
-## 🚀 About Me
-I'm a semiconductor engineer...
+# 👋 Hi, I'm Monktech!
 
+🎓 Engineering Student | 💻 Tech Enthusiast | 🚀 Lifelong Learner  
 
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/ffa9b4ab-cfba-4e1b-944b-8ca1a3571e3a" />
+I am passionate about **electronics, semiconductor technology, and software development**.  
+I enjoy working on **practical projects**, learning new technologies, and solving real-world engineering problems.
 
-## 🛠 Skills
-i know digital electronics, verilog...
+---
 
-# Hi, I'm Katherine! 👋
+## 🧠 Skills & Technologies
 
+### 🔹 Programming & Software
+- C / C++
+- Python
+- MATLAB
+- Basics of Data Analysis
+- Git & GitHub
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+### 🔹 Electronics & Semiconductor
+- Semiconductor Devices & Physics
+- ASIC Basics
+- VLSI Fundamentals
+- Thin Film Deposition Techniques  
+  (Sputtering, MBE, Oxidation)
+- Characterization Techniques
 
+### 🔹 Tools & Platforms
+- Linux
+- VS Code
+- MATLAB Simulink
+- LTspice / Multisim (if applicable)
+
+---
+
+## 📂 Projects
+
+### 🔹 Semiconductor Fabrication Process Study
+- Detailed study of **deposition, oxidation, and characterization techniques**
+- Prepared structured reports and diagrams for academic use
+
+### 🔹 ASIC & VLSI Learning Projects
+- Studied **ASIC design flow**
+- Block-level understanding of digital circuits and fabrication steps
+
+### 🔹 Data & Calculation-Based Projects
+- Electrical parameter calculations (current density, fill factor, efficiency)
+- Data organization and visualization using tables and plots
+
+*(More projects coming soon 🚧)*
+
+---
+
+## 🏆 Achievements
+
+- Completed in-depth academic reports on **semiconductor fabrication**
+- Created structured learning material for diploma-level students
+- Consistently improving technical documentation and presentation skills
+- Active learner in electronics and software domains
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Semiconductor Devices
+- VLSI & ASIC Design
+- Python for Engineering Applications
+- GitHub & Open-Source Contribution
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [https://github.com/Monktech](https://github.com/Monktech)
+- Email: *(add your email here)*
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*  
